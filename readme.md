@@ -1,5 +1,8 @@
 # AutoSubtitles 自动给视频生成中文字幕并合成
 
+## 下载
+
+[Releases](https://github.com/code-scan/AutoSubtitles/releases)
 
 ## 配置
 
