@@ -19,6 +19,8 @@
 
 需要开通阿里云**通用翻译**与**录音文件识别**，并且需要在其中新建项目，配置文件中的**appkey**为**录音文件识别**的项目appkey
 
+**需要安装ffmpeg并且加入到环境变量**
+
 
 https://www.aliyun.com/product/ai/base_alimt?spm=5176.21213303.1378385.1.49063eda7XMipW&scm=20140722.S_card@@%E5%8D%A1%E7%89%87@@784._.ID_card@@%E5%8D%A1%E7%89%87@@784-RL_%E7%BF%BB%E8%AF%91-OR_ser-V_2-P0_0
 
